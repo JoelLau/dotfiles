@@ -1,0 +1,11 @@
+# ignore everything
+/**
+
+# directories 
+!*/hypr
+!*/kitty
+!*/nvim
+
+# top level files
+!.gitignore
+!README.md
